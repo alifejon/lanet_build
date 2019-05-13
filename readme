@@ -9,11 +9,11 @@ Images license: Creative Commons License (CCL) [see:
 
 http://xavier.informatics.indiana.edu/lanet-vi/
 
-Developers: Mariano Beir� (b) 
+Developers: Mariano Beiró (b) 
             J. Ignacio Alvarez-Hamelin (a,b)
 
              (a) CONICET, Argentina
-             (b) Facultad de Ingenier�a, Universidad de Buenos Aires
+             (b) Facultad de Ingeniería, Universidad de Buenos Aires
                  Argentina (http://www.fi.uba.ar)
              
 _____________________________________________________________________
@@ -50,6 +50,9 @@ _____________________________________________________________________
 ===2) Using LaNet-vi=================================================
 
 ./lanet [arguments]
+
+EX) ./lanet -input test_grp.txt
+
 
 Arguments can appear in any order:
 
@@ -108,10 +111,10 @@ _____________________________________________________________________
 
 -References
 
-[1] R. Albert and A.-L. Barabási, "Statistical mechanics of complex
+[1] R. Albert and A.-L. BarabÃ¡si, "Statistical mechanics of complex
     networks", Rev. Mod. Phys. 74, pp. 47-, 2000.
 
-[2] L. A. N. Amaral, A.Scala, M. Barthélemy, and H. E. Stanley, 
+[2] L. A. N. Amaral, A.Scala, M. BarthÃ©lemy, and H. E. Stanley, 
     "Classes of small world networks", Proc. Natl. Acad. Sci. (USA) 97, 
     pp.11149-11152, 2000.
 
@@ -124,10 +127,10 @@ _____________________________________________________________________
 [5] J. I. Alvarez-Hamelin, L. Dall'Asta, A. Barrat and A. Vespignani.
     "Large scale networks fingerprinting and visualization using the 
     k-core decomposition", Advances in Neural Information Processing 
-    Systems 18,  Y. Weiss,  B. Schölkopf and J. Platt ed., MIT Press, 
+    Systems 18,  Y. Weiss,  B. SchÃ¶lkopf and J. Platt ed., MIT Press, 
     Cambridge, MA, pp 41-50, 2006.
 
-[6] M. G. Beir�, J. I. Alvarez-Hamelin and J. R. Busch. "A low complexity
+[6] M. G. Beiró, J. I. Alvarez-Hamelin and J. R. Busch. "A low complexity
     visualization tool that helps to perform complex systems analysis",
     New Journal of Physics, Focus on Visualization in Physics, 2008.
 
